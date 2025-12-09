@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Hood star",
+  "base_artist": "Yvng Patra",
+  "createdAt": "2025-12-09T13:55:57.223086Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hood Star",
+      "artist": "Three 6 Mafia feat. Lyfe Jennings",
+      "has_synced": false,
+      "path": "select/01_Hood_Star_Three_6_Mafia_feat._Lyfe_Jennings.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hood Star (feat. Lyfe Jennings)",
+      "artist": "Three 6 Mafia",
+      "has_synced": false,
+      "path": "select/02_Hood_Star_(feat._Lyfe_Jennings)_Three_6_Mafia.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hood Star",
+      "artist": "Three 6 Mafia",
+      "has_synced": false,
+      "path": "select/03_Hood_Star_Three_6_Mafia.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hood Star",
+      "artist": "Bow Wow feat. Omarion",
+      "has_synced": true,
+      "path": "select/04_Hood_Star_Bow_Wow_feat._Omarion.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hood Star",
+      "artist": "Bow Wow",
+      "has_synced": true,
+      "path": "select/05_Hood_Star_Bow_Wow.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hood Star",
+      "artist": "Bow Wow & Omarion",
+      "has_synced": true,
+      "path": "select/06_Hood_Star_Bow_Wow_&_Omarion.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hood Star (Explicit Album Version)",
+      "artist": "Bow Wow",
+      "has_synced": true,
+      "path": "select/07_Hood_Star_(Explicit_Album_Version)_Bow_Wow.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hood Star",
+      "artist": "Bow Wow & Omarion",
+      "has_synced": true,
+      "path": "select/08_Hood_Star_Bow_Wow_&_Omarion.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hood Star (Explicit Album Version)",
+      "artist": "Three 6 Mafia",
+      "has_synced": false,
+      "path": "select/09_Hood_Star_(Explicit_Album_Version)_Three_6_Mafia.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hood Star (feat. n.O.R.E & Cals)",
+      "artist": "Sido",
+      "has_synced": true,
+      "path": "select/10_Hood_Star_(feat._n.O.R.E_&_Cals)_Sido.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hood Star",
+      "artist": "Omarion & Bow Wow",
+      "has_synced": true,
+      "path": "select/11_Hood_Star_Omarion_&_Bow_Wow.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hood Star (Explicit Album Version)",
+      "artist": "Three 6 Mafia",
+      "has_synced": true,
+      "path": "select/12_Hood_Star_(Explicit_Album_Version)_Three_6_Mafia.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hood Star (feat. Lyfe Jennings)",
+      "artist": "Three 6 Mafia",
+      "has_synced": false,
+      "path": "select/13_Hood_Star_(feat._Lyfe_Jennings)_Three_6_Mafia.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hood Star (Acapella)",
+      "artist": "Bow Wow Ft Omarion",
+      "has_synced": true,
+      "path": "select/14_Hood_Star_(Acapella)_Bow_Wow_Ft_Omarion.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hood Star (Radio Edit)",
+      "artist": "Omarion & Bow Wow",
+      "has_synced": true,
+      "path": "select/15_Hood_Star_(Radio_Edit)_Omarion_&_Bow_Wow.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hood star",
+      "artist": "Yvng Patra",
+      "has_synced": false,
+      "path": "select/pl_01_Hood_star_Yvng_Patra.txt"
+    }
+  ]
+}
